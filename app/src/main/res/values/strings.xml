@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UTS_PMD_2003030010</string>
+    <string name="messege">Do you want to Exit?</string>
+    <string name="title">Alert Dialog</string>
+</resources>
